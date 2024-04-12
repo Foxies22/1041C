@@ -1,4 +1,4 @@
-# 1041C
+# Coding problem 1041C
 
 Recently Monocarp got a job. His working day lasts exactly m
  minutes. During work, Monocarp wants to drink coffee at certain moments: there are n
